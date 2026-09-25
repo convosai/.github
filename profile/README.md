@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/convosai/.github/main/profile/convos-logo.png" alt="Convos" width="320" />
 </p>
 
-<h1 align="center">Convos</h1>
-
 <p align="center">
   <strong>AI-Powered Conversational Texting</strong><br />
   Turn two-way SMS/MMS voter conversations into real-time sentiment, structured insights, and actionable campaign intelligence without going off-message.
